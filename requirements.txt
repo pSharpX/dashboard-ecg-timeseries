@@ -1,0 +1,13 @@
+# requirements.txt
+numpy
+scikit-learn==1.7.1
+scikeras
+pandas
+matplotlib
+tensorflow==2.19.0
+keras==3.11.1
+pydot==1.4.2
+plotly==6.0.1
+neurokit2==0.2.12
+wfdb==4.3.0
+streamlit==1.44.1
