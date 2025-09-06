@@ -18,7 +18,7 @@ import neurokit2 as nk
 st.set_page_config(page_title="Catálogo Sísmico del Perú", layout="wide")
 
 # Cabecera
-st.title("🌎 Catálogo Sísmico del Perú (1960 - 2023)")
+st.title("Visualización y Análisis de Electrocardiograma")
 st.markdown("""
 Este dashboard interactivo permite explorar más de 60 años de actividad sísmica registrada en el Perú.  
 Puedes aplicar filtros para visualizar sismos según el **año**, la **magnitud** o la **profundidad** del epicentro.
