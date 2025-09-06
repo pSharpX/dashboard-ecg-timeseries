@@ -238,4 +238,4 @@ if export_btn:
     st.download_button('Descargar CSV', data=csv, file_name='ecg_segment.csv', mime='text/csv')
 
 st.markdown('---')
-st.caption('App creada usando Streamlit, wfdb y NeuroKit2. Ajustar parámetros según calidad de los datos y calibración de cada registro.')
+st.caption('App creada usando Streamlit, wfdb y NeuroKit2.')
