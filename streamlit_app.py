@@ -4,9 +4,10 @@ import numpy as np
 
 # Define the pages
 page_1 = st.Page("ecg_page.py", title="Dashboard", icon="🌎")
+page_2 = st.Page("ecg_page_2.py", title="Dashboard 2", icon="🌎")
 
 # Set up navigation
-pg = st.navigation([page_1])
+pg = st.navigation([page_1, page_2])
 
 # Run the selected page
 pg.run()

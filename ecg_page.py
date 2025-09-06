@@ -15,7 +15,7 @@ import wfdb
 import neurokit2 as nk
 
 # Configuración de la app
-st.set_page_config(page_title="Catálogo Sísmico del Perú", layout="wide")
+st.set_page_config(page_title="Visualización y Análisis de Electrocardiograma", layout="wide")
 
 # Cabecera
 st.title("Visualización y Análisis de Electrocardiograma")
